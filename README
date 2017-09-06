@@ -1,0 +1,3 @@
+dlopen/dlsym diagnostics.
+
+Usage: lib [symbol]
